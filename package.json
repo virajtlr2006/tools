@@ -1,0 +1,19 @@
+{
+  "name": "tools",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.25.0",
+  "dependencies": {
+    "@langchain/core": "^1.1.33",
+    "@langchain/ollama": "^1.2.6",
+    "dotenv": "^17.3.1"
+  }
+}
